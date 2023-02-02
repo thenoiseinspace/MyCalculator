@@ -1,0 +1,14 @@
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\bin\Debug\netcoreapp3.1\MyCalculator.exe
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\bin\Debug\netcoreapp3.1\MyCalculator.deps.json
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\bin\Debug\netcoreapp3.1\MyCalculator.runtimeconfig.json
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\bin\Debug\netcoreapp3.1\MyCalculator.runtimeconfig.dev.json
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\bin\Debug\netcoreapp3.1\MyCalculator.dll
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\bin\Debug\netcoreapp3.1\MyCalculator.pdb
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.csproj.AssemblyReference.cache
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.AssemblyInfo.cs
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.dll
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.pdb
+C:\Users\sarah.gilbreath\source\repos\MyCalculator\MyCalculator\obj\Debug\netcoreapp3.1\MyCalculator.genruntimeconfig.cache
